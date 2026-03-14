@@ -65,9 +65,10 @@ Despite its advantages, reusable rocket technology also has some challenges:
 - Complex landing and recovery systems  
 - High development costs  
 - Strict safety requirements  
-- Advanced engineering and materials required  
+- Advanced engineering and materials required
 
----
+  <img src="https://raw.githubusercontent.com/bhargavabm/images/main/spacex-6SbFGnQTE8s-unsplash.jpg" width="500">
+
 
 ## Future Scope
 SpaceX is currently developing **Starship**, a fully reusable spacecraft designed for missions to the Moon and Mars. If successful, this technology could make interplanetary travel possible and drastically reduce the cost of space exploration.
