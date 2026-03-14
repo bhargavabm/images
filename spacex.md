@@ -5,6 +5,10 @@ Space exploration has traditionally been extremely expensive because rockets wer
 
 SpaceX, founded by Elon Musk in 2002, introduced reusable rocket technology to reduce the cost of space transportation. By recovering and reusing rocket components, SpaceX has revolutionized the aerospace industry.
 
+<div style="text-align:center;">
+<img src="https://raw.githubusercontent.com/bhargavabm/images/main/spacex-Ptd-iTdrCJM-unsplash.jpg" width="500">
+</div>
+
 ---
 
 ## What is SpaceX?
