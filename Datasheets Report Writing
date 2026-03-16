@@ -1,0 +1,73 @@
+# ⚙️ Datasheet Report: L293D Motor Driver IC
+
+---
+
+## 📖 Introduction
+The **L293D motor driver IC** is used to control DC motors, stepper motors, and other inductive loads. Microcontrollers such as **Arduino** cannot directly drive motors because motors require higher current. The **L293D** acts as an interface between the microcontroller and the motor, enabling safe and efficient motor control.
+
+
+---
+
+## 🔍 Overview of L293D IC
+The **L293D** is a **dual H-bridge motor driver integrated circuit** that allows bidirectional control of two DC motors.
+
+### ✨ Key Features
+- Dual H-bridge motor driver
+- Operating voltage: **4.5V – 36V**
+- Maximum output current: **600 mA per channel**
+- Internal protection diodes
+- TTL compatible inputs
+
+---
+
+## 🔌 Pin Configuration
+
+| Pin Number | Function |
+|------------|-----------|
+| 1 | Enable Motor A |
+| 2,7 | Input control pins |
+| 3,6 | Output pins to motor |
+| 4,5 | Ground |
+| 8 | Motor power supply |
+| 9 | Enable Motor B |
+| 10,15 | Input pins |
+| 11,14 | Output pins |
+| 16 | Logic supply voltage |
+
+---
+
+## 🔁 H-Bridge Concept
+An **H-Bridge** is an electronic circuit that allows current to flow through a motor in **both directions**, enabling the motor to rotate **forward or reverse**.
+
+- When one pair of switches is **ON**, the motor rotates **clockwise**.
+- When the opposite pair of switches is **ON**, the motor rotates **anticlockwise**.
+
+The **L293D contains two H-bridge circuits**, allowing control of **two motors simultaneously**.
+
+---
+
+## ⚡ Pulse Width Modulation (PWM)
+**PWM (Pulse Width Modulation)** is used to control the **speed of a motor**. Instead of changing voltage continuously, the signal rapidly switches between **ON and OFF states**.
+
+- **Higher duty cycle → Higher motor speed**
+- **Lower duty cycle → Lower motor speed**
+
+The **enable pins of L293D** are connected to **PWM signals from a microcontroller** to control the motor speed.
+
+---
+
+## 🛠 Applications
+- Robotics projects
+- Line follower robots
+- Automated vehicles
+- Industrial automation systems
+- Embedded motor control systems
+
+---
+
+## 📌 Conclusion
+The **L293D motor driver IC** is widely used in robotics and embedded systems. It allows microcontrollers to control motors safely using an **H-bridge configuration**. **PWM control** enables efficient speed regulation, making the **L293D an important component in motor control applications**.
+
+---
+
+⭐ *Digital Electronics / Embedded Systems Lab Report*
