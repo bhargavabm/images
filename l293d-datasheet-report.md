@@ -90,5 +90,5 @@
 <h2 id="📌-conclusion">📌 Conclusion</h2>
 <p>The <strong>L293D motor driver IC</strong> is widely used in robotics and embedded systems. It allows microcontrollers to control motors safely using an <strong>H-bridge configuration</strong>. <strong>PWM control</strong> enables efficient speed regulation, making the <strong>L293D an important component in motor control applications</strong>.</p>
 <hr>
-<p>⭐ <em>Digital Electronics / Embedded Systems Lab Report</em></p>
+
 
